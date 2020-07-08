@@ -1,0 +1,9 @@
+.home{
+    margin:26px auto;
+  }
+  
+  .home-card{
+    width:500px !important;
+    height:max-content !important;
+    margin:26px auto;
+  }
